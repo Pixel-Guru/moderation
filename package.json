@@ -1,0 +1,20 @@
+{
+  "name": "nexizo - moderation",
+  "version": "1.0.0",
+  "description": "Bot Discord com prefixo, slash commands e Components V2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js"
+  },
+  "author": "luizao",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.19.3",
+    "milliseconds": "^1.0.3",
+    "moment": "^2.29.3",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "file:vendor/quick.db"
+  }
+}

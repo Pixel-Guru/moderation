@@ -1,0 +1,7 @@
+{
+  "name": "quick.db",
+  "version": "7.1.3-local",
+  "main": "index.js",
+  "description": "Local JSON-backed quick.db compatibility shim for this bot.",
+  "license": "ISC"
+}
